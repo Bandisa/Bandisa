@@ -19,7 +19,7 @@
 
 - 📫 Email Me on:  **bp.dev@icloud.com**
 
-- 📄 Know about my experiences [Bandisa](www.linkedin.com/in/bandisa)
+- 📄 Know about my experiences [Bandisa](https://linkedin.com/in/bandisa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
