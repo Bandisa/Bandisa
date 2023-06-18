@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bandisa Masilela</h1>
-<h3 align="center">A glorified Keyboard warrior, battling coloured texts, designing and building cool staff.</h3>
+<h3 align="center">A syntatical Keyboard warrior, battling coloured texts, designing and building cool staff.</h3>
 <h4 align="center"> Bsc Comp Sci Student at UP</h2>
 <h5 align="center">Previously = { AWS Software Development Engineer Intern | UP Teaching Assistant for COS110 }</h5>
 
