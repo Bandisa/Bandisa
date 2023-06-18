@@ -40,7 +40,6 @@
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bandisa&show_icons=true&locale=en&layout=compact" alt="bandisa" />
-<br><br>
 </p>
 <br><br>
 
