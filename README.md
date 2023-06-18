@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/bandisa](github.com/bandisa)
 
-- 💬 Ask me about **C++, Javascript, Python -- Software Eng staff**
+- 💬 Ask me about **C++, Javascript, Python and AWS
 
 - 📫 Email Me on:  **bp.dev@icloud.com**
 
