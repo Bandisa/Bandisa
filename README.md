@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on [Pronto](https://github.com/COS301-SE-2023/Pronto)
 
-- 🌱 I’m currently learning **SveltJs and Shopify**
+- 🌱 I’m currently learning **AWS AMPLIFY + REACTJS**
 
 - 👨‍💻 All of my projects are available at [github.com/bandisa](github.com/bandisa)
 
-- 💬 Ask me about **C++, Javascript, Python and AWS
+- 💬 Ask me about C++, Javascript, Python and AWS
 
 - 📫 Email Me on:  **bp.dev@icloud.com**
 
