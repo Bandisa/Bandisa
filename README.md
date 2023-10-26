@@ -17,8 +17,6 @@
 
 - 💬 Ask me about C++, Javascript, Python and AWS
 
-- 📫 Email Me on:  **bp.dev@icloud.com**
-
 - 📄 Know about my experiences [Bandisa](https://linkedin.com/in/bandisa)
 
 <h3 align="left">Connect with me:</h3>
