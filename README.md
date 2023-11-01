@@ -38,8 +38,8 @@
 <p><a href="https://www.buymeacoffee.com/bandisa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bandisa" /></a></p> <br></br>
 <h3 align="left">Quick Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats-psi-nine-72.vercel.app/api/top-langs?username=bandisa&show_icons=true&locale=en&layout=donut-vertical&langs_count=10" alt="bandisa" /></p><br></br>
+<p><img align="left" src="https://github-readme-stats-bandisa.vercel.app/api/top-langs?username=bandisa&show_icons=true&locale=en&layout=donut-vertical&langs_count=10" alt="bandisa" /></p><br></br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-psi-nine-72.vercel.app/api?username=bandisa&show_icons=true&locale=en" alt="bandisa" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats-bandisa.vercel.app/api?username=bandisa&show_icons=true&locale=en" alt="bandisa" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bandisa&" alt="bandisa" /></p><br></br>
