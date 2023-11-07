@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/therealbandisa" target="blank"><img src="https://img.shields.io/twitter/follow/therealbandisa?logo=twitter&style=for-the-badge" alt="therealbandisa" /></a> </p>
 
-- 🔭 I’m currently working on [Pronto](https://github.com/COS301-SE-2023/Pronto)
+- 🔭 I’m currently freelancing
 
-- 🌱 I’m currently learning **AWS AMPLIFY + REACTJS**
+- 🌱 I’m currently learning **NEXTJS**
 
 - 👨‍💻 All of my projects are available at [github.com/bandisa](github.com/bandisa)
 
