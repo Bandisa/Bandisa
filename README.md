@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bandisa Masilela</h1>
-<h3 align="center">A syntatical Keyboard warrior, battling coloured texts, designing and building cool staff.</h3>
-<h4 align="center"> Bsc Comp Sci Student at UP</h2>
-<h5 align="center">Previously = { AWS Software Development Engineer Intern | UP Teaching Assistant for COS110 }</h5>
+<h3 align="center">A Keyboard warrior - designing and building cool staff.</h3>
+<h5 align="center">Previously = { 2x AWS Software Development Engineer Intern | UP Teaching Assistant for COS110 }</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandisa&label=Profile%20views&color=0e75b6&style=flat" alt="bandisa" /> </p>
 
