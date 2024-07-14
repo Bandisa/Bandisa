@@ -1,31 +1,20 @@
 <h1 align="center">Hi 👋, I'm Bandisa Masilela</h1>
 <h3 align="center">A Keyboard warrior - designing and building cool staff.</h3>
-<h5 align="center">Previously = { 2x AWS Software Development Engineer Intern | UP Teaching Assistant for COS110 }</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandisa&label=Profile%20views&color=0e75b6&style=flat" alt="bandisa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bandisa&theme=onedark" alt="bandisa" /></a> </p>
+<p>I am a final year Computer Science Student, who studied Computer Engineering for 2 years at the University Of Pretoria. I am intersted in distributed systems and fintech, with the goal of becoming a Principal Software Engineer and Entrepreneur. </p>
 
-<p align="left"> <a href="https://twitter.com/therealbandisa" target="blank"><img src="https://img.shields.io/twitter/follow/therealbandisa?logo=twitter&style=for-the-badge" alt="therealbandisa" /></a> </p>
-
-- 🔭 I’m currently freelancing
-
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **Clojure**
 
 - 👨‍💻 All of my projects are available at [github.com/bandisa](github.com/bandisa)
 
-- 💬 Ask me about C++, Javascript, Python and AWS
-
-- 📄 Know about my experiences [Bandisa](https://linkedin.com/in/bandisa)
+- 📄 Know about my experiences [linkedin.com/in/Bandisa](https://linkedin.com/in/bandisa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/bandisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bandisa" height="30" width="40" /></a>
-<a href="https://twitter.com/therealbandisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealbandisa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bandisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bandisa" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20020135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20020135" height="30" width="40" /></a>
-<a href="https://instagram.com/therealbandisa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="therealbandisa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bandisamasilela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bandisamasilela" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bandisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bandisa" height="30" width="40" /></a>
 <a href="https:/discordapp.com/users/bandisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bandisa" height="30" width="40" /></a>
 </p>
@@ -37,8 +26,7 @@
 <p><a href="https://www.buymeacoffee.com/bandisa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bandisa" /></a></p> <br></br>
 <h3 align="left">Quick Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats-bandisa.vercel.app/api/top-langs?username=bandisa&show_icons=true&locale=en&layout=donut-vertical&langs_count=10" alt="bandisa" /></p><br></br>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bandisa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bandisa&layout=compact&langs_count=8&theme=algolia"/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats-bandisa.vercel.app/api?username=bandisa&show_icons=true&locale=en" alt="bandisa" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bandisa&" alt="bandisa" /></p><br></br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bandisa&theme=algolia" alt="bandisa" /></p><br></br>
