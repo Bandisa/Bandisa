@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bandisa&label=Profile%20views&color=0e75b6&style=flat" alt="bandisa" /> </p>
 
-<p>I am a final year Computer Science Student and I studied Computer Engineering for 2 years at the University Of Pretoria. I am intersted in distributed systems and fintech, with the goal of becoming a Principal Software Engineer and Entrepreneur. </p>
+<p>I am a final year Computer Science Student and I studied Computer Engineering for 2 years at the University Of Pretoria. I am interested in distributed systems and Fintech, with the goal of becoming a Principal Software Engineer and Entrepreneur. </p>
 
 - 🌱 I’m currently learning **Clojure**
 
